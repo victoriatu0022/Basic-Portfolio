@@ -1,0 +1,19 @@
+header {
+    color: #777777;
+    background: #ffffff;
+    border-color: #666666;
+  }
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ccc;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+  }
+  
+  #left {
+    float: left;
+    width: 33.3%;
+    color: #fff;
+    background: #666;
+  }
